@@ -1,0 +1,144 @@
+{
+  "description" : "",
+  "name" : "Denials",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1562184703.5718651,
+      "modificationDate" : 1562184703.5718651,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "sptrack.mailer.humblebundle.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1562184740.3726101,
+      "modificationDate" : 1562184740.3726101,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "tr.subscribermail.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1562184810.1804121,
+      "modificationDate" : 1562184810.1804121,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "tinypass.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1562184911.5301042,
+      "modificationDate" : 1562185028.431572,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "appcues.net",
+        "appcues-public.s3-us-west-2.amazonaws.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1562177597.4565148,
+      "modificationDate" : 1592180190.9092278,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "self.events.data.microsoft.com",
+        "hockeyapp.net",
+        "appcenter.ms"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1584477890.2790198,
+      "modificationDate" : 1584477890.2790198,
+      "owner" : "me",
+      "process" : "\/Applications\/Airmail 3.app\/Contents\/MacOS\/Airmail",
+      "remote-hosts" : "trcksp.cordial.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573443195.252197,
+      "modificationDate" : 1573445784.504801,
+      "owner" : "me",
+      "process" : "\/Applications\/Airmail 3.app\/Contents\/MacOS\/Airmail",
+      "remote-domains" : [
+        "appspot.com",
+        "revenuecat.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1562184581.3331718,
+      "modificationDate" : 1562184581.3331718,
+      "owner" : "me",
+      "process" : "\/Applications\/Setapp.app\/Contents\/MacOS\/Setapp",
+      "remote-domains" : "stats.setapp.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573069687.915817,
+      "modificationDate" : 1573069687.915817,
+      "owner" : "me",
+      "process" : "\/Users\/tubedogg\/Library\/Application Support\/Setapp\/LaunchAgents\/Setapp.app\/Contents\/MacOS\/SetappAgent",
+      "remote-domains" : "sentry.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573093727.4319739,
+      "modificationDate" : 1573093727.4319739,
+      "owner" : "me",
+      "process" : "\/Users\/tubedogg\/Library\/Application Support\/Setapp\/LaunchAgents\/SetappUpdater.app\/Contents\/MacOS\/SetappUpdater",
+      "remote-domains" : "sentry.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1591171984.415843,
+      "modificationDate" : 1591171984.415843,
+      "owner" : "me",
+      "process" : "\/Applications\/TeamViewer.app\/Contents\/MacOS\/TeamViewer",
+      "remote-domains" : "google-analytics.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1591171987.563658,
+      "modificationDate" : 1591171987.563658,
+      "owner" : "me",
+      "process" : "\/Applications\/TeamViewer.app\/Contents\/MacOS\/TeamViewer",
+      "remote-domains" : "googletagmanager.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1567036287.40696,
+      "modificationDate" : 1567036287.40696,
+      "owner" : "me",
+      "process" : "\/Applications\/The Unarchiver.app\/Contents\/MacOS\/The Unarchiver",
+      "remote-domains" : "devmate.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1592254668.494107,
+      "modificationDate" : 1592254668.494107,
+      "owner" : "me",
+      "process" : "\/Applications\/Setapp\/Timing.app\/Contents\/MacOS\/Timing",
+      "remote-domains" : "crashlytics.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1592180198.7959061,
+      "modificationDate" : 1592180198.7959061,
+      "owner" : "me",
+      "process" : "\/Applications\/Setapp\/Timing.app\/Contents\/Library\/LoginItems\/TimingHelper.app\/Contents\/MacOS\/TimingHelper",
+      "remote-domains" : "crashlytics.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1592601473.778733,
+      "modificationDate" : 1592601473.778733,
+      "owner" : "me",
+      "process" : "\/Applications\/Setapp\/Timing.app\/Contents\/Library\/LoginItems\/TimingHelper.app\/Contents\/XPCServices\/TimingInfoExtractorService.xpc\/Contents\/MacOS\/TimingInfoExtractorService",
+      "remote-domains" : "crashlytics.com"
+    }
+  ]
+}
