@@ -66,7 +66,7 @@ function prepareCSV(filename, nexttask = 'stay') {
     downloadCSV(changetexts.join("\n")+"\n", filename, nexttask);
 }
 
-var filename = 'changes.csv';
+var filename = 'Changes.csv';
 $('<a class="btn csvbtn" style="float: right" id="csvnext">CSV+<a>').appendTo('#topic_list_scroll_area');
 $('#csvnext').click(function(){prepareCSV(filename, 'next');});
 $('<a class="btn csvbtn" style="float: right" id="csveq">CSV=<a>').appendTo('#topic_list_scroll_area');
