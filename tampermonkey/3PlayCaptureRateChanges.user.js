@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         3Play: Capture rate changes
 // @namespace    http://idlewords.net/
-// @version      0.1
+// @version      0.2
 // @description  Review messages to find rate changes and download as CSV
 // @author       You
 // @match        https://jobs.3playmedia.com/message_topics*
